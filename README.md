@@ -60,10 +60,9 @@ pip install -r requirements.txt
 ```
 rag-bot/
   └── data/
-      ├── document1.pdf
-      ├── document2.pdf
-      └── ...
-```
+      ├── document.pdf
+  └── templates
+      ├── index.html
 
 ## Running the Application
 
@@ -95,8 +94,8 @@ http://127.0.0.1:5000
 
 ## License
 
-[Add your license information here]
+[Ali Haider Syed]
 
 ## Acknowledgments
 
-- [List any libraries, frameworks, or resources you want to acknowledge]
+
